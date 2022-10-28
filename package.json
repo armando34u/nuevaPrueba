@@ -1,0 +1,22 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba render",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armando34u/nuevaPrueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armando34u/nuevaPrueba/issues"
+  },
+  "homepage": "https://github.com/armando34u/nuevaPrueba#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
